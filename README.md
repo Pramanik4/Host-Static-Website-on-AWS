@@ -1,1 +1,3 @@
-# host_Static_website-on-AWS
+# Host Static Website on AWS
+
+Login into AWS Account

@@ -1,5 +1,7 @@
 # Host Static Website on AWS
 
+![image](https://github.com/Pramanik4/Host-Static-Website-on-AWS/assets/75212387/d56ab1c9-5255-4380-8441-7f9fb9a6ba07)
+
 Login into AWS Account
 
 ![image](https://github.com/Pramanik4/Host-Static-Website-on-AWS/assets/75212387/973f0a8b-257c-4a40-a9e8-1cfd297ed575)
